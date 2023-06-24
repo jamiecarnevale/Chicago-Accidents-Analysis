@@ -32,7 +32,7 @@ While the model did a great job at correctly predicting reckless driving to be t
 
 ## Top Variables Affecting the Model
 
-Here, we see the top 7 variables that helps the model make classify. However, it's best to just focus on the top 3, so we can make some actionable plans that help us reduce accident rates. These top three variables include: Entering Traffic Lane From Parking, Physical Condition Impaired - Alcohol, and Accident Occurred at a Stop Sign/Flasher.
+Here, we see the top 7 variables that helps the model classify. However, it's best to just focus on the top 3, so we can make some actionable plans that help us reduce accident rates. These top three variables include: Entering Traffic Lane From Parking, Physical Condition Impaired - Alcohol, and Accident Occurred at a Stop Sign/Flasher.
 
 ![y](/images/keyvariablesaffectingmodel.png)
 
