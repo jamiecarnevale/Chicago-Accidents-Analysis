@@ -4,7 +4,7 @@ Author: Jamie Carnevale
 
 ## Overview
 
-Hello Chicago Traffic Safety Board! We have creeated a classifcation model to predict the primary contributory cause of a car accidents.
+Hello Chicago Traffic Safety Board! I am here to present a classifcation model that can predict the primary contributory cause of a car accidents.
 
 ## Business Understanding
 
