@@ -12,7 +12,7 @@ Modeling for primary contributory causes of car accidents can help us identify a
 
 ## Model Classification Target Groups
 
-In order to create this model, we binned the the primary causes for accidents into four different categories: reckless driving, missed or misunderstood traffic signs or rules, issue with driver or vehicle, and external variable.
+In order to create this model, the primary causes for accidents were binned into four different categories: reckless driving, missed or misunderstood traffic signs or rules, issue with driver or vehicle, and external variable.
 
 Some of the subcategories that fall under these four main categories include:
 - Reckless driving: following too closely, improper overtaking/passing, texting,  failing to reduce speed to avoid crash
